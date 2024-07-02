@@ -1,0 +1,21 @@
+.content{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 300px;
+  width: 405px;
+  margin: auto;
+  padding: 5px 40px;
+  background: url(https://picsum.photos/id/1004/5616/3744) no-repeat   center center #505050;   
+  background-size: cover;
+  box-shadow: 0px 30px 60px -5px #000;
+}
+
+.endereco{
+  color: aliceblue;
+}
+
+.texto{
+  color: aliceblue;
+}
